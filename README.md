@@ -1,2 +1,0 @@
-# telegram-ad-bot
-geo
